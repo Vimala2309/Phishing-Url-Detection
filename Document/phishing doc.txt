@@ -1,0 +1,46 @@
+🔐 Phishing URL Detection using Python
+Project Overview:
+
+The Phishing URL Detection system is a machine learning-based web security tool designed to identify and classify URLs as either legitimate or phishing. It helps users avoid fraudulent websites that aim to steal sensitive data such as login credentials, credit card numbers, and personal information.
+
+✨ Key Features:
+
+🚫 Detects malicious/phishing URLs in real-time
+
+🔍 Extracts over 30+ features from each URL (length, presence of @, redirection, IP usage, etc.)
+
+🧠 Trained with popular classifiers like Random Forest, Decision Tree, Logistic Regression, and XGBoost
+
+📈 Achieves high accuracy using labeled datasets from trusted sources
+
+🧪 Offers prediction through a simple user interface (CLI or web)
+
+🛠 Technologies Used:
+
+Python for data preprocessing and ML model development
+
+Pandas & NumPy for data manipulation
+
+Scikit-learn for ML model training and evaluation
+
+Tkinter or Streamlit (optional) for creating GUI/web interface
+
+Jupyter Notebook for experimentation and visualization
+
+💡 Learning Outcome:
+
+Gained hands-on experience in cybersecurity-focused machine learning
+
+Understood feature engineering for malicious URL detection
+
+Improved skills in data preprocessing, model evaluation, and deployment
+
+
+
+
+
+
+
+
+
+
